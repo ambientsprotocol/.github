@@ -1,9 +1,9 @@
 # Contributing
 
-Welcome! Thanks for checking out this repository. We encourage you to:
+Please contribute! Here are some things that would be great:
 
-- Open issues
-- Open PRs
-- Join us on [Gitter](https://gitter.im/ambientsprotocol/community?source=orgpage)
+- Open an issue!
+- Open a pull request!
+- Join us on [Gitter](https://gitter.im/ambientsprotocol/community?source=orgpage) and say hi! :wave:
 
-Please conform to the [Code of Conduct](CODE_OF_CONDUCT.md).
+Please note that we have a [Code of Conduct](CODE_OF_CONDUCT.md), and that all activity in the [@ambientsprotocol](https://github.com/ambientsprotocol) organization falls under it. Read it before you contribute, as being part of this community means that you agree to abide by it. Thanks.
